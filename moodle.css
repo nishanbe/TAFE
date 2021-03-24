@@ -1,3 +1,4 @@
+/* Main tabs or main menu */
 .nav-tabs>li {
 	float: none;
 	display: inline-block !important;
@@ -16,6 +17,7 @@
 	border-radius: 0;
 }
 
+/* Child tabs or sub-menu */
 ul.nav.nav-tabs:nth-of-type(2) {
 	background: #f2f2f2;
 }
