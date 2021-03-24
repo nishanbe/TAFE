@@ -1,4 +1,3 @@
-<p>
 <script type="text/javascript">// <![CDATA[
 var cssRules =
 
@@ -49,4 +48,3 @@ var theSublink = '<a href="'+subjLink+'">Exit Topic</a>'
     }
     document.getElementById('yourselection').appendChild(bkToSubject);
 // ]]></script>
-</p>
