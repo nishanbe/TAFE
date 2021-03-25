@@ -59,7 +59,7 @@ div[role="main"] h2 {
 .row-fluid table {
 	line-height: 1em;
 }
-.course-content li.section ul{
+.course-content div > div > ul{
 	list-style: square !important;
     	padding-left: 40px;
 }
