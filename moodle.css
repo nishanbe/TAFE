@@ -1,4 +1,10 @@
 /* Main tabs or main menu */
+body:not(
+	.format-onetopic.pagelayout-course):not(.mod-scorm):not(.path-mod-scorm) iframe {
+	display: block !important;
+	visibility: visible !important;
+}
+
 .nav-tabs>li {
 	float: none;
 	display: inline-block !important;
